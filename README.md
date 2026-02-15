@@ -3,134 +3,95 @@
 <h1 align="center">Juan Sebastián Carrera Bolaños</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=2500&pause=800&color=61DAFB&center=true&vCenter=true&width=900&lines=React+Developer+⚛️;Full+Stack+Engineer;AI+%26+Data+Integration;Building+Scalable+Modern+Applications" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=2500&pause=800&color=61DAFB&center=true&vCenter=true&width=950&lines=React+Developer+⚛️;Full+Stack+Engineer;AI+%26+Data+Integration;Building+Scalable+Modern+Applications" />
 </p>
 
 <p align="center">
-  <a href="#-español">🇪🇸 Español</a> |
-  <a href="#-english">🇺🇸 English</a>
+  <b>⚛️ React Focused • ⚙️ Backend Development • 🧠 AI Integration • 🚀 Continuous Growth</b>
 </p>
 
 ---
+
+<!-- ================= PHOTO ================= -->
 
 <p align="center">
-  <!-- REEMPLAZA POR TU FOTO -->
-  <img src="TU_LINK_DE_FOTO_AQUI" width="200" style="border-radius:50%;" />
+  <!-- REPLACE WITH YOUR PHOTO LINK -->
+  <img src="YOUR_PHOTO_LINK_HERE" width="220" />
 </p>
 
 ---
 
-# 🇪🇸 Español
+# 👨‍💻 About Me
 
-## 👨‍💻 Sobre mí
+I am a Systems Engineer passionate about building modern, scalable web applications.
 
-Ingeniero en Sistemas apasionado por el desarrollo de aplicaciones modernas y escalables.
+My main focus is **React development**, where I enjoy designing clean, maintainable, and high-performance interfaces.  
+I also work across the full stack — developing backend APIs and integrating AI-driven solutions into real-world platforms.
 
-Mi enfoque principal es **React ⚛️**, pero también trabajo como Full Stack integrando:
+I am constantly improving my architecture knowledge, performance optimization skills, and system design thinking.
 
-- ⚛️ Frontend moderno con React  
-- ⚙️ Backend con Node.js y Express  
-- 🧠 Integración de modelos de IA  
-- 📊 Aplicaciones basadas en datos  
-
-Me enfoco en escribir código limpio, mantenible y escalable.
-
-> Creo que el software debe ser claro, eficiente y construido con propósito.
+> I build with structure. I grow with purpose.
 
 ---
 
-## ⚛️ React — Mi Enfoque Principal
+# ⚛️ React — My Core Strength
+
+React is the technology where I feel most confident and motivated.
+
+## What I Build with React
 
 ```diff
-+ Arquitectura de componentes escalable
-+ Custom Hooks reutilizables
-+ Context API para manejo de estado
-+ Optimización de rendimiento
-+ Integración profesional de APIs
-+ Interfaces centradas en UX/UI
-```
-
-React es donde más disfruto construir soluciones.
-
----
-
-## ⚙️ Desarrollo Full Stack
-
-```diff
-+ Diseño de APIs REST
-+ Node.js & Express
-+ MongoDB & MySQL
-+ Autenticación y validación
-+ Estructura backend limpia
-```
-
----
-
-## 🧠 IA & Datos
-
-```diff
-+ Integración de modelos de Machine Learning
-+ Visualización de datos
-+ Automatización inteligente
-+ Aplicaciones web con IA
-```
-
----
-
-# 🇺🇸 English
-
-## 👨‍💻 About Me
-
-Systems Engineer passionate about building modern, scalable web applications.
-
-My primary focus is **React ⚛️**, while also working across the full stack integrating:
-
-- ⚛️ Modern React Frontend  
-- ⚙️ Node.js Backend Systems  
-- 🧠 AI Model Integration  
-- 📊 Data-Driven Applications  
-
-I focus on writing clean, scalable, maintainable code.
-
-> Software should be scalable, efficient, and purpose-driven.
-
----
-
-## ⚛️ React — Core Strength
-
-```diff
-+ Scalable component architecture
-+ Custom reusable hooks
++ Scalable component-based architectures
++ Reusable custom hooks
 + Context API state management
-+ Performance optimization
-+ Professional API integration
-+ UX/UI driven interfaces
++ Performance optimization (memo, lazy loading)
++ Clean folder structure & maintainable code
++ API integration with robust error handling
++ UX-driven and responsive interfaces
 ```
 
-React is where I build with precision and passion.
+### My React Mindset
+
+- Think in components  
+- Prioritize reusability  
+- Keep state predictable  
+- Optimize performance early  
+- Build for long-term scalability  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react" width="95"/>
+</p>
 
 ---
 
-## ⚙️ Full Stack Development
+# ⚙️ Full Stack Development
+
+On the backend, I work with:
 
 ```diff
-+ RESTful API design
 + Node.js & Express
++ RESTful API design
 + MongoDB & MySQL
-+ Authentication systems
++ Authentication & validation
 + Clean backend architecture
 ```
 
+I enjoy connecting robust backend systems with intuitive frontend experiences.
+
 ---
 
-## 🧠 AI & Data Integration
+# 🧠 AI & Data Integration
+
+I integrate intelligent systems into web platforms through:
 
 ```diff
-+ Machine Learning integration
-+ Data visualization
++ Machine Learning model integration
++ Data analysis & visualization
 + Intelligent automation
-+ AI-powered web systems
++ AI-powered web applications
 ```
+
+My goal is to bridge intelligent systems with scalable web architecture.
 
 ---
 
@@ -142,19 +103,41 @@ React is where I build with precision and passion.
 
 ---
 
-# 📊 GitHub Stats
+# 📈 Currently Growing In
+
+```diff
++ Advanced React patterns
++ System design fundamentals
++ Scalable backend architecture
++ AI-powered SaaS systems
+```
+
+I believe continuous growth is part of being a great engineer.
+
+---
+
+# 🏆 Featured Projects
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=REPO1&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=REPO2&theme=tokyonight" />
 </p>
 
 ---
 
-# 🌍 Open to Opportunities
+# 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# 🌍 Open To Opportunities
 
 - React Developer Roles  
 - Full Stack Positions  
-- AI Integration Projects  
+- AI & Web Integration Projects  
 - Remote Work  
 
 ---
