@@ -14,10 +14,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=2500&pause=800&color=61DAFB&center=true&vCenter=true&width=950&lines=React+Developer+⚛️;Full+Stack+Engineer;AI+%26+Data+Integration;Building+Scalable+Modern+Applications" />
 </p>
 
-<p align="center">
-  ⚛️ React Focused • ⚙️ Backend Development • 🧠 AI Integration • 🚀 Continuous Growth
-</p>
-
 ---
 
 <!-- ================= PHOTO ================= -->
@@ -31,75 +27,82 @@
 
 # 👨‍💻 About Me
 
-I am a Systems Engineer passionate about building modern, scalable web applications.
+I am a Systems Engineer with a strong passion for building scalable, modern web applications.
 
-My main focus is **React development**, where I design clean, maintainable, and high-performance interfaces.  
-I also work across the full stack — developing backend APIs and integrating AI-driven solutions into real-world platforms.
+My main focus is **React development**, where I design clean, maintainable, and performance-driven interfaces.  
+I also work across the full stack — developing backend APIs and integrating AI-driven systems into real-world platforms.
 
-I continuously improve my system design thinking, architecture skills, and performance optimization strategies.
-
-> I build with structure. I grow with purpose.
+I believe software must be structured, scalable, and built with long-term vision.
 
 ---
 
 # ⚛️ React — My Core Strength
 
-React is the technology where I feel most confident and motivated.
-
-## What I Build with React
-
 ```diff
-+ Scalable component-based architectures
-+ Reusable custom hooks
++ Scalable component-based architecture
++ Custom reusable hooks
 + Context API state management
 + Performance optimization (memo, lazy loading)
-+ Clean folder structure & maintainable code
-+ API integration with robust error handling
++ API integration with clean abstraction
 + UX-driven and responsive interfaces
 ```
 
-### My React Mindset
-
-- Think in components  
-- Prioritize reusability  
-- Keep state predictable  
-- Optimize performance early  
-- Build for long-term scalability  
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react" width="95"/>
-</p>
+React is where I combine logic, performance, and design precision.
 
 ---
 
-# ⚙️ Full Stack Development
-
-On the backend, I work with:
+# ⚙️ Full Stack & AI Integration
 
 ```diff
-+ Node.js & Express
++ Node.js & Express backend systems
 + RESTful API design
 + MongoDB & MySQL
 + Authentication & validation
-+ Clean backend architecture
++ Machine Learning model integration
++ Data visualization & intelligent automation
 ```
 
-I enjoy connecting robust backend systems with intuitive frontend experiences.
+I enjoy connecting intelligent backend systems with intuitive frontend experiences.
 
 ---
 
-# 🧠 AI & Data Integration
+# 🎓 Education
 
-I integrate intelligent systems into web platforms through:
+- **MSc in Data Science** – Centro Europeo de Posgrados (2025)  
+- **Specialization in Project Management** – CEUPE (2025)  
+- **BSc in Systems Engineering** – Universidad Mariana  
 
-```diff
-+ Machine Learning model integration
-+ Data analysis & visualization
-+ Intelligent automation
-+ AI-powered web applications
-```
+My academic background strengthens my analytical thinking and system design capabilities.
 
-My goal is to bridge intelligent systems with scalable web architecture.
+---
+
+# 🏆 Honors & Recognitions
+
+- 🏅 Award-Winning Thesis – Augmented Reality Indoor Navigation System  
+- 🥈 Elite Research Recognition  
+- 🌎 International Research Mention  
+- 🇺🇸 US Regional Web Development Champion  
+- 🎖 Academic Honors for Excellence  
+
+These recognitions reflect discipline, research ability, and technical commitment.
+
+---
+
+# 🚀 Featured Projects
+
+### 📍 Augmented Reality Indoor Navigation System
+Award-winning thesis project integrating AR, 3D modeling, and spatial recognition for real-time navigation.
+
+### 🧠 EVA-SENSORIAL Platform
+Full-stack clinical evaluation system with intelligent reporting and data processing.
+
+### 🖥 Enterprise MERN Management System
+Scalable permission management platform with secure architecture.
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=REPO1&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=REPO2&theme=tokyonight" />
+</p>
 
 ---
 
@@ -120,7 +123,18 @@ My goal is to bridge intelligent systems with scalable web architecture.
 + AI-powered SaaS systems
 ```
 
-Continuous learning is part of my engineering identity.
+Continuous growth is part of my engineering identity.
+
+---
+
+# 🎯 Beyond Coding
+
+- 📚 Reading about system design & emerging technologies  
+- 🧠 Exploring AI advancements  
+- 🏋️ Discipline & personal development  
+- 🤝 Mentoring and collaborating in tech communities  
+
+These activities strengthen my problem-solving mindset and leadership growth.
 
 ---
 
@@ -138,6 +152,12 @@ Continuous learning is part of my engineering identity.
 <p align="center">
   <a href="mailto:Sebascarrera2000@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-61dafb?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://linkedin.com/in/juan-sebastian-carrera-bolaños-119709238">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://discordapp.com/users/593217383146061834">
+    <img src="https://img.shields.io/badge/Discord-Connect-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </p>
 
