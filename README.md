@@ -1,74 +1,95 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=2500&pause=800&color=61DAFB&center=true&vCenter=true&width=1000&lines=JUAN+SEBASTIAN+CARRERA;React+Engineer+⚛️;AI+%26+Backend+Developer;Building+Scalable+Modern+Systems" />
-</h1>
+<!-- ================= HEADER ================= -->
+
+<h1 align="center">Juan Sebastián Carrera Bolaños</h1>
 
 <p align="center">
-  ⚛️ React Focused Developer • 🧠 AI Integration • ⚙️ Backend Systems • 🚀 Growth-Oriented Engineer
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=2500&pause=800&color=61DAFB&center=true&vCenter=true&width=900&lines=React+Developer+⚛️;Full+Stack+Engineer;AI+%26+Data+Integration;Building+Scalable+Modern+Applications" />
+</p>
+
+---
+
+<!-- ================= FOTO PERSONAL ================= -->
+
+<p align="center">
+  <!-- REEMPLAZA EL LINK POR TU FOTO -->
+  <img src="TU_LINK_DE_FOTO_AQUI" width="220" style="border-radius: 50%;" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TUUSUARIO&color=61dafb&style=for-the-badge" />
+  <b>⚛️ React Focused • ⚙️ Backend Development • 🧠 AI Integration • 🚀 Continuous Growth</b>
 </p>
 
 ---
 
 # 👨‍💻 About Me
 
-Systems Engineer passionate about **modern frontend architecture and intelligent backend systems**.
+I am a Systems Engineer passionate about building modern, scalable web applications.
 
-I specialize in:
+My main focus is **React development**, but I also work across the full stack — designing backend APIs and integrating AI-driven solutions into real-world platforms.
 
-- ⚛️ React development  
-- ⚙️ Node.js backend systems  
-- 🧠 AI model integration  
-- 📊 Data-driven applications  
+I am constantly improving my architecture knowledge, performance optimization skills, and system design thinking.
 
-I focus on writing clean, scalable code and continuously improving my engineering skills.
-
-> I believe great software is built with clarity, structure, and purpose.
+> I believe software should be scalable, maintainable, and built with purpose.
 
 ---
 
-# ⚛️ React — My Main Focus
+# ⚛️ React Development — My Strongest Area
 
-React is the technology I enjoy working with the most.
+React is the technology where I feel most comfortable and motivated.
 
-## ⚛️ What I Build with React
+## What I Focus On in React
 
 ```diff
-+ Scalable Component Structures
-+ Reusable UI Systems
-+ Custom Hooks
-+ Context API State Management
-+ Performance Optimization (memo, lazy loading)
-+ Dynamic Dashboards
-+ Clean Project Architecture
++ Clean and scalable component architecture
++ Custom hooks for reusable logic
++ Context API state management
++ Performance optimization (memo, lazy loading)
++ Responsive and UX-driven interfaces
++ API integration with proper error handling
 ```
 
-### My Approach to React
+### My React Philosophy
 
 - Think in components  
 - Prioritize reusability  
 - Keep state predictable  
-- Optimize performance  
-- Build for maintainability  
+- Optimize performance early  
+- Build for long-term maintainability  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react" width="100"/>
+  <img src="https://skillicons.dev/icons?i=react" width="90"/>
 </p>
 
 ---
 
-# 🧠 AI & Backend Development
+# ⚙️ Full Stack Development
+
+I also develop backend systems using:
 
 ```diff
-+ RESTful API development with Node.js
-+ Machine Learning integration into web platforms
-+ Data visualization & analytics
-+ Clean backend architecture
++ Node.js & Express
++ RESTful API design
++ MongoDB & MySQL
++ Authentication & data validation
++ Clean backend structure
 ```
 
-I enjoy bridging intelligent systems with intuitive interfaces.
+I enjoy connecting robust backend logic with intuitive frontend interfaces.
+
+---
+
+# 🧠 AI & Data Integration
+
+I work with:
+
+```diff
++ Machine Learning model integration
++ Data analysis & visualization
++ Intelligent automation systems
++ AI-driven web applications
+```
+
+My goal is to combine intelligent systems with scalable web architectures.
 
 ---
 
@@ -80,18 +101,18 @@ I enjoy bridging intelligent systems with intuitive interfaces.
 
 ---
 
-# 🚀 Currently Growing In
+# 📈 Currently Improving
 
 ```diff
 + Advanced React patterns
 + System design fundamentals
 + Scalable backend architecture
-+ AI-powered SaaS applications
++ AI-powered SaaS systems
 ```
 
 ---
 
-# 🏆 Selected Projects
+# 🏆 Featured Projects
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=TUUSUARIO&repo=REPO1&theme=tokyonight" />
@@ -108,10 +129,10 @@ I enjoy bridging intelligent systems with intuitive interfaces.
 
 ---
 
-# 🌍 Open To
+# 🌍 Open To Opportunities
 
-- Frontend React Roles  
-- Full Stack Opportunities  
+- React Developer Roles  
+- Full Stack Positions  
 - AI & Web Integration Projects  
 - Remote Work  
 
@@ -128,5 +149,5 @@ I enjoy bridging intelligent systems with intuitive interfaces.
 ---
 
 <h3 align="center">
-  ⚛️ Learning • Building • Improving • Scaling 🚀
+  ⚛️ Building. Learning. Scaling. 🚀
 </h3>
