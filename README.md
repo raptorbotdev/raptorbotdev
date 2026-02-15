@@ -3,11 +3,19 @@
 <h1 align="center">Juan Sebastián Carrera Bolaños</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=2500&pause=800&color=61DAFB&center=true&vCenter=true&width=950&lines=React+Developer+⚛️;Full+Stack+Engineer;AI+%26+Data+Integration;Building+Scalable+Modern+Applications" />
+  <b>
+  React-focused Engineer building scalable web applications and integrating AI into real-world systems.
+  </b>
+  <br/>
+  Passionate about clean architecture, performance optimization, and continuous growth.
 </p>
 
 <p align="center">
-  <b>⚛️ React Focused • ⚙️ Backend Development • 🧠 AI Integration • 🚀 Continuous Growth</b>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=2500&pause=800&color=61DAFB&center=true&vCenter=true&width=950&lines=React+Developer+⚛️;Full+Stack+Engineer;AI+%26+Data+Integration;Building+Scalable+Modern+Applications" />
+</p>
+
+<p align="center">
+  ⚛️ React Focused • ⚙️ Backend Development • 🧠 AI Integration • 🚀 Continuous Growth
 </p>
 
 ---
@@ -25,10 +33,10 @@
 
 I am a Systems Engineer passionate about building modern, scalable web applications.
 
-My main focus is **React development**, where I enjoy designing clean, maintainable, and high-performance interfaces.  
+My main focus is **React development**, where I design clean, maintainable, and high-performance interfaces.  
 I also work across the full stack — developing backend APIs and integrating AI-driven solutions into real-world platforms.
 
-I am constantly improving my architecture knowledge, performance optimization skills, and system design thinking.
+I continuously improve my system design thinking, architecture skills, and performance optimization strategies.
 
 > I build with structure. I grow with purpose.
 
@@ -112,24 +120,7 @@ My goal is to bridge intelligent systems with scalable web architecture.
 + AI-powered SaaS systems
 ```
 
-I believe continuous growth is part of being a great engineer.
-
----
-
-# 🏆 Featured Projects
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=REPO1&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=REPO2&theme=tokyonight" />
-</p>
-
----
-
-# 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
+Continuous learning is part of my engineering identity.
 
 ---
 
