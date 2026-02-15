@@ -1,28 +1,54 @@
 <h1 align="center">Juan Sebastián Carrera Bolaños</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+Engineer+%7C+Full+Stack+Developer;Data+Science+Specialist;Backend+Systems+Architect;Building+Scalable+Intelligent+Solutions;Tech+Leader+%26+Researcher" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=900&lines=AI+Engineer+%7C+Full+Stack+Developer;React+Specialist+%E2%9A%9B%EF%B8%8F;Backend+Systems+Architect;Building+Scalable+Intelligent+Solutions;Tech+Leader+%26+Researcher" />
 </p>
 
 <p align="center">
-  <b>Engineering intelligence into scalable systems.</b>
+  <b>Engineering intelligence. Crafting scalable systems. Loving React.</b>
 </p>
 
 ---
 
-# 🧠 About Me
+## 👨‍💻 About Me
 
-Software Engineer specialized in **Artificial Intelligence, Backend Systems, and Scalable Architectures**.
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=1200&auto=format&fit=crop" width="600" />
+</p>
 
-With a strong academic foundation in Systems Engineering and advanced studies in Data Science, I design, build, and deploy production-grade systems integrating:
+Software Engineer specialized in **Artificial Intelligence, Scalable Backend Systems, and Modern Frontend Architectures**.
 
-- Machine Learning models  
-- High-performance APIs  
-- Data-driven architectures  
-- Enterprise web platforms  
-- Intelligent automation systems  
+From the age of 15, I started building web platforms — turning curiosity into mastery.  
+Today, I design and deploy **production-ready intelligent systems** combining:
 
-I focus on writing **clean, scalable, maintainable code** aligned with measurable business impact.
+- 🧠 Machine Learning  
+- ⚙ High-performance APIs  
+- 📊 Data-driven decision systems  
+- 🌐 Enterprise web platforms  
+
+I write **clean, scalable, maintainable code** aligned with measurable impact.
+
+---
+
+# ⚛️ My Passion: React
+
+React is not just a framework for me — it’s a craft.
+
+I love building:
+
+- ⚛️ Scalable component architectures  
+- 🎯 Clean reusable UI systems  
+- 🚀 High-performance SPA applications  
+- 🎨 UX/UI-driven interfaces  
+- 🔥 Dynamic data-driven dashboards  
+
+React allows me to transform complex logic into intuitive user experiences.
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react" width="80" />
+</p>
+
+> "Great interfaces are invisible. React helps me build them."
 
 ---
 
@@ -36,7 +62,7 @@ I focus on writing **clean, scalable, maintainable code** aligned with measurabl
 
 # 🏗 Engineering Domains
 
-### 🧠 Artificial Intelligence & Data Engineering
+## 🧠 Artificial Intelligence & Data Engineering
 ```diff
 + Machine Learning Integration
 + Predictive Modeling
@@ -45,36 +71,36 @@ I focus on writing **clean, scalable, maintainable code** aligned with measurabl
 + Decision Support Systems
 ```
 
-### ⚙ Backend & Architecture
+## ⚙ Backend Architecture
 ```diff
 + RESTful API Design
-+ MERN Stack Development
++ MERN Stack Systems
 + Clean Architecture
-+ Scalable System Design
-+ Agile (Scrum) Methodologies
++ Scalable Infrastructure
++ Agile (Scrum)
 ```
 
-### 🎨 Frontend Engineering
+## ⚛️ Frontend Excellence (React Focused)
 ```diff
-+ UX/UI-Oriented Interfaces
-+ React Applications
++ Advanced React Patterns
++ Custom Hooks & State Management
 + Performance Optimization
-+ User-Centered Design
++ Responsive UI Systems
++ UX-Centered Development
 ```
 
 ---
 
-# 🏆 Selected Projects
+# 🏆 Featured Projects
 
-## 📍 Indoor Augmented Reality Navigation System  
-Award-winning thesis project.  
-Developed a real-time AR indoor navigation system integrating 3D modeling and spatial recognition.
+## 📍 Augmented Reality Indoor Navigation System
+Award-winning thesis project integrating AR, spatial recognition, and real-time interaction.
 
-## 🧠 EVA-SENSORIAL Digital Platform  
-Full-stack clinical evaluation platform with automated reporting and data analysis.
+## 🧠 EVA-SENSORIAL Platform
+Full-stack clinical evaluation system with intelligent reporting.
 
-## 🖥 Enterprise MERN Management System  
-Scalable enterprise-grade permission management solution with secure architecture.
+## 🖥 Enterprise MERN Management System
+Secure and scalable enterprise-grade web platform.
 
 ---
 
@@ -88,7 +114,7 @@ Scalable enterprise-grade permission management solution with secure architectur
 
 # 🏅 Recognitions
 
-🏆 Award-Winning Thesis – Augmented Reality System  
+🏆 Award-Winning Thesis  
 🥈 Research Elite Recognition  
 🌎 International Research Mention  
 🇺🇸 US Regional Web Development Champion  
@@ -113,10 +139,11 @@ Scalable enterprise-grade permission management solution with secure architectur
 
 # 🌍 Professional Vision
 
-- Think in systems.  
-- Build for scale.  
-- Optimize for performance.  
-- Deliver measurable impact.  
+- Think in systems  
+- Build for scale  
+- Engineer intelligence  
+- Craft beautiful interfaces  
+- Deliver measurable impact  
 
 ---
 
@@ -135,5 +162,5 @@ Scalable enterprise-grade permission management solution with secure architectur
 ---
 
 <h3 align="center">
-  Building the Future with Code, Intelligence & Vision 🚀
+  Building the Future with Code, Intelligence & React ⚛️🚀
 </h3>
