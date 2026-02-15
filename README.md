@@ -1,139 +1,139 @@
-# 👨‍💻 Juan Sebastián Carrera Bolaños  
-
-🚀 Ingeniero en Sistemas | Full Stack Developer | AI & Data Science Specialist  
-
----
-
-## 🌎 Sobre mí  
-
-Apasionado por el desarrollo de software y la inteligencia artificial desde los 15 años.  
-Especializado en **MERN Stack, Backend avanzado, Ciencia de Datos e Inteligencia Artificial aplicada**.
-
-Me enfoco en construir soluciones escalables, automatizar procesos y generar impacto real a través de la tecnología.
-
----
-
-# 🧠 Áreas de Especialización
-
-- 🤖 Inteligencia Artificial & Machine Learning  
-- 🌐 Desarrollo Full Stack (MERN)  
-- 🗄️ Backend & APIs REST  
-- 📊 Ciencia y Visualización de Datos  
-- 🎨 UX/UI Design  
-- 📈 Gestión de Proyectos (Scrum)  
-
----
-
-# 🛠️ Tech Stack  
-
-## 🚀 Lenguajes
+<h1 align="center">Juan Sebastián Carrera Bolaños</h1>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,php,html,css" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+Engineer+%7C+Full+Stack+Developer;Data+Science+Specialist;Backend+Systems+Architect;Building+Scalable+Intelligent+Solutions;Tech+Leader+%26+Researcher" />
+</p>
+
+<p align="center">
+  <b>Engineering intelligence into scalable systems.</b>
 </p>
 
 ---
 
-## ⚙️ Frameworks & Librerías
+# 🧠 About Me
+
+Software Engineer specialized in **Artificial Intelligence, Backend Systems, and Scalable Architectures**.
+
+With a strong academic foundation in Systems Engineering and advanced studies in Data Science, I design, build, and deploy production-grade systems integrating:
+
+- Machine Learning models  
+- High-performance APIs  
+- Data-driven architectures  
+- Enterprise web platforms  
+- Intelligent automation systems  
+
+I focus on writing **clean, scalable, maintainable code** aligned with measurable business impact.
+
+---
+
+# 🚀 Tech Arsenal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,php,react,nodejs,express,mongodb,mysql,azure,git,github,vscode" />
 </p>
 
 ---
 
-## 🗄️ Bases de Datos
+# 🏗 Engineering Domains
+
+### 🧠 Artificial Intelligence & Data Engineering
+```diff
++ Machine Learning Integration
++ Predictive Modeling
++ Data Analysis & Visualization
++ Intelligent Automation
++ Decision Support Systems
+```
+
+### ⚙ Backend & Architecture
+```diff
++ RESTful API Design
++ MERN Stack Development
++ Clean Architecture
++ Scalable System Design
++ Agile (Scrum) Methodologies
+```
+
+### 🎨 Frontend Engineering
+```diff
++ UX/UI-Oriented Interfaces
++ React Applications
++ Performance Optimization
++ User-Centered Design
+```
+
+---
+
+# 🏆 Selected Projects
+
+## 📍 Indoor Augmented Reality Navigation System  
+Award-winning thesis project.  
+Developed a real-time AR indoor navigation system integrating 3D modeling and spatial recognition.
+
+## 🧠 EVA-SENSORIAL Digital Platform  
+Full-stack clinical evaluation platform with automated reporting and data analysis.
+
+## 🖥 Enterprise MERN Management System  
+Scalable enterprise-grade permission management solution with secure architecture.
+
+---
+
+# 🎓 Education
+
+- 🎓 MSc in Data Science  
+- 🎓 Specialization in Project Management  
+- 🎓 BSc in Systems Engineering  
+
+---
+
+# 🏅 Recognitions
+
+🏆 Award-Winning Thesis – Augmented Reality System  
+🥈 Research Elite Recognition  
+🌎 International Research Mention  
+🇺🇸 US Regional Web Development Champion  
+
+---
+
+# 📊 GitHub Performance
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TUUSUARIO&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TUUSUARIO&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## ☁️ DevOps & Herramientas
+# 🌍 Professional Vision
+
+- Think in systems.  
+- Build for scale.  
+- Optimize for performance.  
+- Deliver measurable impact.  
+
+---
+
+# 📬 Contact
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=azure,git,github,vscode" />
+  <a href="mailto:Sebascarrera2000@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Professional-blue?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
+
+<p align="center">
+  Colombia • Open to Global Opportunities 🌎
 </p>
 
 ---
 
-# 💼 Experiencia Profesional
-
-## 🤖 Desarrollador de Inteligencia Artificial  
-**Estrategia & Poder S.A.S (2026 - Actualidad)**  
-- Modelos de Machine Learning  
-- Automatización de procesos  
-- Análisis estratégico de datos  
-
-## 🧩 Backend, Datos e IA  
-**South America Tech Solutions S.A.S (2023 - Actualidad)**  
-- Desarrollo de APIs escalables  
-- Integración de modelos IA  
-- Visualización y análisis de datos  
-
-## 🎓 Docente Universitario  
-**Universidad Mariana (2024 - 2025)**  
-- Inteligencia Artificial  
-- Estructura de Datos  
-- Ingeniería de Software  
-- Ciberseguridad  
-
----
-
-# 🚀 Proyectos Destacados
-
-## 📍 Sistema de Localización con Realidad Aumentada  
-Sistema indoor con AR para navegación universitaria.  
-🏅 Tesis Meritoria  
-
-## 🧠 EVA-SENSORIAL  
-Plataforma digital para evaluación clínica con análisis automatizado.
-
-## 🖥️ Sispermisos  
-Sistema MERN Fullstack para gestión empresarial.
-
----
-
-# 🎓 Formación Académica
-
-🎓 Ingeniero en Sistemas – Universidad Mariana  
-🎓 Especialista en Gestión de Proyectos – CEUPE  
-🎓 Máster en Ciencia de Datos – CEUPE  
-
----
-
-# 🏆 Reconocimientos
-
-🥇 Mención de Honor – Tesis Meritoria  
-🥈 2° Lugar – Semillero Élite de Investigaciones  
-🌎 Mención de Honor Internacional como Investigador  
-🏆 1° Lugar Regional Web Development – USA  
-
----
-
-# 🌍 Idiomas
-
-🇪🇸 Español – Nativo  
-🇬🇧 Inglés – B2  
-
----
-
-# 📫 Contacto
-
-📧 **Sebascarrera2000@gmail.com**  
-📍 Cali, Colombia  
-💼 Abierto a colaboraciones internacionales  
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TUUSUARIO&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-# 🚀 “Building the future with Code & Intelligence”
+<h3 align="center">
+  Building the Future with Code, Intelligence & Vision 🚀
+</h3>
