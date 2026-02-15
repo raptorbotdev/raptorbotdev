@@ -20,7 +20,7 @@
 
 <p align="center">
   <!-- REPLACE WITH YOUR PHOTO LINK -->
-  <img src="YOUR_PHOTO_LINK_HERE" width="220" />
+  <img src="me.jpg" width="220" />
 </p>
 
 ---
@@ -166,3 +166,4 @@ These activities strengthen my problem-solving mindset and leadership growth.
 <h3 align="center">
   ⚛️ Building. Learning. Scaling. 🚀
 </h3>
+
