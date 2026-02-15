@@ -1,127 +1,100 @@
-<h1 align="center">Juan Sebastián Carrera Bolaños</h1>
+<!-- CYBERPUNK BANNER -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=900&lines=AI+Engineer+%7C+Full+Stack+Developer;React+Specialist+%E2%9A%9B%EF%B8%8F;Backend+Systems+Architect;Building+Scalable+Intelligent+Solutions;Tech+Leader+%26+Researcher" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=34&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=1000&lines=JUAN+SEBASTIAN+CARRERA;Senior+React+Engineer+%E2%9A%9B%EF%B8%8F;AI+Architect+%7C+Backend+Engineer;Scalable+Systems+Designer;Building+the+Future+with+Code" />
 </p>
 
 <p align="center">
-  <b>Engineering intelligence. Crafting scalable systems. Loving React.</b>
-</p>
-
----
-
-## 👨‍💻 About Me
-
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=1200&auto=format&fit=crop" width="600" />
-</p>
-
-Software Engineer specialized in **Artificial Intelligence, Scalable Backend Systems, and Modern Frontend Architectures**.
-
-From the age of 15, I started building web platforms — turning curiosity into mastery.  
-Today, I design and deploy **production-ready intelligent systems** combining:
-
-- 🧠 Machine Learning  
-- ⚙ High-performance APIs  
-- 📊 Data-driven decision systems  
-- 🌐 Enterprise web platforms  
-
-I write **clean, scalable, maintainable code** aligned with measurable impact.
-
----
-
-# ⚛️ My Passion: React
-
-React is not just a framework for me — it’s a craft.
-
-I love building:
-
-- ⚛️ Scalable component architectures  
-- 🎯 Clean reusable UI systems  
-- 🚀 High-performance SPA applications  
-- 🎨 UX/UI-driven interfaces  
-- 🔥 Dynamic data-driven dashboards  
-
-React allows me to transform complex logic into intuitive user experiences.
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react" width="80" />
-</p>
-
-> "Great interfaces are invisible. React helps me build them."
-
----
-
-# 🚀 Tech Arsenal
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,php,react,nodejs,express,mongodb,mysql,azure,git,github,vscode" />
+  <img src="https://komarev.com/ghpvc/?username=TUUSUARIO&color=00f7ff&style=for-the-badge" />
 </p>
 
 ---
 
-# 🏗 Engineering Domains
+# 🌌 SYSTEM STATUS
 
-## 🧠 Artificial Intelligence & Data Engineering
 ```diff
-+ Machine Learning Integration
-+ Predictive Modeling
-+ Data Analysis & Visualization
-+ Intelligent Automation
-+ Decision Support Systems
-```
-
-## ⚙ Backend Architecture
-```diff
-+ RESTful API Design
-+ MERN Stack Systems
-+ Clean Architecture
-+ Scalable Infrastructure
-+ Agile (Scrum)
-```
-
-## ⚛️ Frontend Excellence (React Focused)
-```diff
-+ Advanced React Patterns
-+ Custom Hooks & State Management
-+ Performance Optimization
-+ Responsive UI Systems
-+ UX-Centered Development
++ React Engineering: ELITE
++ AI Systems: ACTIVE
++ Backend Architecture: SCALABLE
++ Performance Mode: OPTIMIZED
 ```
 
 ---
 
-# 🏆 Featured Projects
+# ⚛️ REACT CORE ENGINE
 
-## 📍 Augmented Reality Indoor Navigation System
-Award-winning thesis project integrating AR, spatial recognition, and real-time interaction.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="120">
+</p>
 
-## 🧠 EVA-SENSORIAL Platform
-Full-stack clinical evaluation system with intelligent reporting.
+## ⚛️ Advanced React Capabilities
 
-## 🖥 Enterprise MERN Management System
-Secure and scalable enterprise-grade web platform.
+```diff
++ Feature-Based Architecture
++ Enterprise Folder Structure
++ Custom Hooks Engineering
++ Context Modularization
++ Performance Optimization (memo, suspense, lazy)
++ Dynamic Data Dashboards
++ Error Boundaries & Resilient UI
++ API Integration Patterns
++ Production Deployment
+```
+
+### ⚛️ React Philosophy
+
+- Components > Pages  
+- Reusability > Duplication  
+- Performance > Complexity  
+- Clean Code > Quick Hacks  
+
+> React is not a library. It’s an ecosystem for scalable interface architecture.
 
 ---
 
-# 🎓 Education
+# 🧠 TECH RADAR
 
-- 🎓 MSc in Data Science  
-- 🎓 Specialization in Project Management  
-- 🎓 BSc in Systems Engineering  
+## 🟢 Mastered
+React • JavaScript • Node.js • MERN • REST APIs • MongoDB
 
----
+## 🔵 Advanced
+TypeScript • AI Integration • Data Visualization • Azure DevOps
 
-# 🏅 Recognitions
-
-🏆 Award-Winning Thesis  
-🥈 Research Elite Recognition  
-🌎 International Research Mention  
-🇺🇸 US Regional Web Development Champion  
+## 🟣 Exploring
+Microservices • Advanced System Design • AI SaaS Architectures
 
 ---
 
-# 📊 GitHub Performance
+# 🚀 TECH STACK
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,python,mongodb,mysql,azure,git,github,vscode" />
+</p>
+
+---
+
+# 🧠 CURRENTLY BUILDING
+
+```diff
++ AI-Powered SaaS Platforms
++ Enterprise React Dashboards
++ Intelligent Automation Systems
++ Scalable Backend APIs
++ Data-Driven Decision Engines
+```
+
+---
+
+# 🏆 FEATURED PROJECTS
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TUUSUARIO&repo=REPO1&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TUUSUARIO&repo=REPO2&theme=tokyonight" />
+</p>
+
+---
+
+# 📊 PERFORMANCE METRICS
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TUUSUARIO&theme=tokyonight&hide_border=true" />
@@ -137,30 +110,25 @@ Secure and scalable enterprise-grade web platform.
 
 ---
 
-# 🌍 Professional Vision
+# 🌍 ENGINEERING VISION
 
-- Think in systems  
-- Build for scale  
-- Engineer intelligence  
-- Craft beautiful interfaces  
+- Architect intelligent systems  
+- Engineer scalable platforms  
+- Craft elite React experiences  
 - Deliver measurable impact  
 
 ---
 
-# 📬 Contact
+# 📬 CONNECT
 
 <p align="center">
   <a href="mailto:Sebascarrera2000@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Professional-blue?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-Professional-00f7ff?style=for-the-badge&logo=gmail" />
   </a>
-</p>
-
-<p align="center">
-  Colombia • Open to Global Opportunities 🌎
 </p>
 
 ---
 
 <h3 align="center">
-  Building the Future with Code, Intelligence & React ⚛️🚀
+  ⚛️ React • 🧠 AI • 🚀 Scalable Systems • 🌌 Elite Engineering
 </h3>
